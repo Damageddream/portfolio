@@ -1,0 +1,37 @@
+Nav - Home About Skills Portfolio Contact
+
+Home 
+ - icons to - github
+            - linkedin
+            - figma/dribble?
+
+    I am Marcin Grabowski
+
+    Full stack web developer based in Poland
+
+    Portfolio - button
+
+About
+    Lorem Ipsum
+
+Skills 
+    Design - Figma 
+    Frontend - React
+    Backend - Express Django
+    Languages - JS TS Python HTML css
+    Other - Git Redux JEST React testing library
+
+Portfolio 
+ - Fresk Frontend / Backend
+ - Metro
+ - ??
+ - ??
+
+ Contact 
+
+    FORM:
+        - NAme 
+        - email 
+        - text
+        - submit
+        or through mail marcan.grab@gmail.com
