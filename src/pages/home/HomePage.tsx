@@ -1,7 +1,7 @@
 const HomePage: React.FC = () => {
     return <>
-    My homepage
+    My homepages
     </>
 }
 
-export default HomePage
+export default HomePage 
