@@ -1,0 +1,15 @@
+@import '../../index.css';
+
+button {
+    border-radius: 3%;
+    background-color: var(--clr-primary-400);
+    font-family: var(--ff-par);
+    font-weight: var(--fw-bold);
+    border: none;
+    padding: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(255, 72, 0);
+}
