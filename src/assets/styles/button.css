@@ -6,7 +6,7 @@ button {
     font-family: var(--ff-par);
     font-weight: var(--fw-bold);
     border: none;
-    padding: 5px;
+    padding: 10px;
 }
 
 button:hover {

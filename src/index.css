@@ -40,6 +40,8 @@ img {
 html {
   color-scheme: dark;
   margin: 0;
+  height: 100%;
+  width: 100%;
 }
 
 body {
@@ -48,4 +50,12 @@ body {
   font-weight: var(--fw-regular);
   line-height: 1.5;
   font-size: var(--fs-400);
+  height: 100%;
+  margin: 0;
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
 }
