@@ -14,7 +14,7 @@ const Navigation: React.FC = () => {
         Portfolio
       </Link>
       <Link to="/skills" className="navItem">
-        Contact
+        Skills
       </Link>
       <Link to="/contact" className="navItem">
         Contact
